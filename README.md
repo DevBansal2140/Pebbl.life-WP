@@ -1,4 +1,4 @@
-# Title : Applying TOPSIS to find best trained model for Text Summarization
+![image](https://github.com/DevBansal2140/Topsis-for-Pretrained-Models/assets/109917595/a1e94ed2-b29a-45eb-9874-fecd115532dc)# Title : Applying TOPSIS to find best trained model for Text Summarization
 
 ## **1. Methodology**
 <img src = "https://github.com/BhavyaBhalla-27/Assignment-3/assets/114859167/f8d09486-4c3e-4638-bfdf-c721023fdc0d" width = "100%" height="100%" />
@@ -15,7 +15,7 @@ The below is the input which will be given to TOPSIS.
 
 ## **4. Output**
 <img src="https://github.com/BhavyaBhalla-27/Assignment-3/assets/114859167/3a04a1cb-a8a5-46a6-9f11-df1ffc38fb90" width="120%" height="120%">
-
+<img src="![image](https://github.com/DevBansal2140/Topsis-for-Pretrained-Models/assets/109917595/ec120cca-d3e2-4d1d-ab67-ecd952ae4cae)" width="120%" height="120%"> 
 ## **5. Conclusion**
 Hence we can conclude that Model-3 named "t5-base-fr-sum-cnndm" performed best in our case.
 <br>
