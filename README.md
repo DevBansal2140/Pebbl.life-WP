@@ -14,7 +14,9 @@ The below is the input which will be given to TOPSIS.
 <img src="https://github.com/DevBansal2140/Topsis-for-Pretrained-Models/assets/109917595/bdd685cb-025c-4ea0-bdb3-d84e7ee19fb0" width="120%" height="120%">
 
 ## **4. Output**
-<img src="https://github.com/DevBansal2140/Topsis-for-Pretrained-Models/assets/109917595/ec120cca-d3e2-4d1d-ab67-ecd952ae4cae" width="120%" height="120%"> 
+<img src="https://github.com/DevBansal2140/Topsis-for-Pretrained-Models/assets/109917595/ec120cca-d3e2-4d1d-ab67-ecd952ae4cae" width="120%" height="120%">
+<img src="https://github.com/DevBansal2140/Topsis-for-Pretrained-Models/assets/109917595/9a408866-cacf-4580-887a-339745e7b489" width = "100%" height="100%">
+
 ## **5. Conclusion**
 Hence we can conclude that Model-3 named "t5-base-fr-sum-cnndm" performed best in our case.
 <br>
