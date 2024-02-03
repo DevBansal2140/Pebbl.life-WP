@@ -1,4 +1,4 @@
-![image](https://github.com/DevBansal2140/Topsis-for-Pretrained-Models/assets/109917595/a1e94ed2-b29a-45eb-9874-fecd115532dc)# Title : Applying TOPSIS to find best trained model for Text Summarization
+# Title : Applying TOPSIS to find best trained model for Text Summarization
 
 ## **1. Methodology**
 <img src = "https://github.com/BhavyaBhalla-27/Assignment-3/assets/114859167/f8d09486-4c3e-4638-bfdf-c721023fdc0d" width = "100%" height="100%" />
